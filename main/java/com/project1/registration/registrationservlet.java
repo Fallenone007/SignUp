@@ -22,7 +22,7 @@ public class registrationservlet extends HttpServlet {
 		
 		
 		PrintWriter out = response.getWriter();
-		out.print("Working");
+		out.print("Working as hell");
 		
 	}
 
